@@ -1,0 +1,19 @@
+{
+  "name": "udemy-nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "The project is created to learn node js concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurramharish/udemy-nodejs-complete-guide.git"
+  },
+  "author": "Harish Kumar G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurramharish/udemy-nodejs-complete-guide/issues"
+  },
+  "homepage": "https://github.com/gurramharish/udemy-nodejs-complete-guide#readme"
+}
