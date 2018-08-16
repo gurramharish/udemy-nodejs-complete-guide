@@ -1,0 +1,14 @@
+1. We can use nodemon to run javascript file on node environment and keep the server watching the same for changes.
+
+2. Debugging Node Js apps in command line
+    1. node inspect <file-name>
+        It will run the js file in debugging mode you can move to next line using
+         'n'. And if you want to move to next debbugger point or to if no debuggers
+         to the end of the file is 'c'.
+         Use 'repl' to inspect the elements in the running file
+3. Debugging the node js app in chrome
+    1. node --inspect-brk <file-name>
+        It will run the js file in debugging in chrome browser
+        Now open the chrome browser and navigate to
+        chrome://inspect and click on the link 'devtools for nodejs'
+        And start debugging
